@@ -53,6 +53,11 @@ header h1 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    transition: transform 0.2s ease;
+}
+
+.book-card:hover {
+    transform: translateY(-3px);
 }
 
 .book-card h3 {
@@ -80,15 +85,15 @@ header h1 {
 .read-btn {
     display: block;
     text-align: center;
-    background-color: #27ae60;
+    background-color: #3498db;
     color: white;
     padding: 10px;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
-    transition: background 0.3rem;
+    transition: background 0.3s;
 }
 
 .read-btn:hover {
-    background-color: #219150;
+    background-color: #2980b9;
 }
