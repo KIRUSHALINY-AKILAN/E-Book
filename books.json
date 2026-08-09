@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Python for Beginners",
+    "author": "Guido van Rossum",
+    "category": "Programming",
+    "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Data Analytics Fundamentals",
+    "author": "John Doe",
+    "category": "Data Science",
+    "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Web Development Basics",
+    "author": "Jane Smith",
+    "category": "Web Dev",
+    "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  }
+]
